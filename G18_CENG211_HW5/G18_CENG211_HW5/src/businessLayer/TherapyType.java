@@ -1,0 +1,11 @@
+package businessLayer;
+
+/**
+ * @author Gorkem
+ *
+ */
+public enum TherapyType {
+	ACUPRESSURE,ACUPUNCTURE,AROMATHERAPY,
+	AYURVEDIC,BALNEOTHERAPY,CHIROPRACTIC,
+	NATUROPATHY,REFLEXOGY,HOMEOPATHY,REIKI
+}

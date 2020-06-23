@@ -1,0 +1,5 @@
+package businessLayer;
+
+public enum TypeOfCategory{
+	DEPARTMENT, CAFETERIA, ADMINISTRATIVE, FACILITY, WATERFALL, BEACH, HISTORICAL_RUIN, DEFAULT
+}

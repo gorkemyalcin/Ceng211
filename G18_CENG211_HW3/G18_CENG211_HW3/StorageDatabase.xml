@@ -1,0 +1,60 @@
+<item-info>
+
+<movie>
+<id>2</id>
+<type>movie</type>
+<book_name>Mission Impossible</book_name>
+<rent_policy>NewReleasePolicy</rent_policy> 
+<genre>action</genre>
+<actor>Tom Cruise</actor>
+<producer>Paula Wagner</producer>
+</movie>
+
+<movie>
+<id>3</id>
+<type>movie</type>
+<book_name>Interstellar</book_name>
+<rent_policy>OldReleasePolicy</rent_policy> 
+<genre>mystery</genre>
+<actor>Matthew McConaughey</actor>
+<producer>Christopher Nolan</producer>
+</movie>
+
+<book>
+<id>4</id>
+<type>book</type>
+<book_name>A Clash of Kings</book_name>
+<rent_policy>BargainPolicy</rent_policy> 
+<author>George R.R. Martin</author>
+<publisher>Bantam Books</publisher>
+ </book>
+
+<book>
+<id>5</id>
+<type>book</type>
+<book_name>The Winds of Winter</book_name>
+<rent_policy>NewReleasePolicy</rent_policy> 
+<author>George R.R. Martin</author>
+<publisher>Bantam Books</publisher>
+ </book>
+
+<book>
+<id>6</id>
+<type>book</type>
+<book_name>A Storm of Swords</book_name>
+<rent_policy>BargainPolicy</rent_policy> 
+<author>George R.R. Martin</author>
+<publisher>Bantam Books</publisher>
+ </book>
+
+<movie>
+<id>1</id>
+<type>movie</type>
+<book_name>Angels and Demons</book_name>
+<rent_policy>OldReleasePolicy</rent_policy> 
+<genre>adventure</genre>
+<actor>Tom Hanks</actor>
+<producer>Ron Howard</producer>
+</movie>
+
+</item-info>

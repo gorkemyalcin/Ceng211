@@ -1,0 +1,47 @@
+[
+{
+"_id":2,
+"type":"movie",
+"movie_name":"Mission Impossible",
+"rent_policy":"NewReleasePolicy",
+"genre":"action",
+"actor":"Tom Cruise",
+"producer":"Paula Wagner"}, 
+{
+"_id":3,
+"type":"movie",
+"movie_name":"Interstellar",
+"rent_policy":"OldReleasePolicy",
+"genre":"mystery",
+"actor":"Matthew McConaughey",
+"producer":"Christopher Nolan"}, 
+{
+"_id":4,
+"type":"book",
+"book_name":"A Clash of Kings",
+"rent_policy":"BargainPolicy",
+"author":"George R.R. Martin",
+"publisher":"Bantam Books"}, 
+{
+"_id":5,
+"type":"book",
+"book_name":"The Winds of Winter",
+"rent_policy":"NewReleasePolicy",
+"author":"George R.R. Martin",
+"publisher":"Bantam Books"}, 
+{
+"_id":6,
+"type":"book",
+"book_name":"A Storm of Swords",
+"rent_policy":"BargainPolicy",
+"author":"George R.R. Martin",
+"publisher":"Bantam Books"}, 
+{
+"_id":1,
+"type":"movie",
+"movie_name":"Angels and Demons",
+"rent_policy":"OldReleasePolicy",
+"genre":"adventure",
+"actor":"Tom Hanks",
+"producer":"Ron Howard"}, 
+]
